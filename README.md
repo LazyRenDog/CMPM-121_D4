@@ -1,5 +1,7 @@
 # D4 dev starter (proof of concept)
 
+BY: Aryan P , etc...
+
 A voxel dragon on a grid, snake rules: Godot and Blender, driven from text, with the same task
 habits as D3. The dragon moves and turns; food, growth, and collisions are yours to add,
 in `core/session.gd`.
